@@ -17,7 +17,9 @@ https://namu.wiki/w/SDA
 1. https://github.com/wjdgowns77/SDAbackupproject/blob/master/SDAbackup1.ipynb
 ->크롤링 하는 스크립트+크롤링한 html파일에서 열자마자 로그인페이지로 리다이렉트 시키는 지뢰 제거하는 스크립트
 
-2. 제작중- html파일을 PDF로 변환시켜서 이미지 파일들을 함께 받아놓은 스크립트.(파이썬이 아닌 배치 파일입니다)
+2.https://github.com/wjdgowns77/SDAbackupproject/blob/master/abc.bat 
+->html파일을 PDF로 변환시켜서 이미지 파일들을 함께 받아놓은 스크립트.(파이썬이 아닌 배치 파일입니다)
+wkhtmltopdf프로그램 설치가 필요합니다.
 
 
 
@@ -63,7 +65,7 @@ html파일 여셔서 <iframe title="답변쓰기에디터" (블라블라...)   �
 수집하자마자 없애버려도 되는데, 그냥 따로 분리하는게 나을것 같아서 분리했습니다.(사실 반쯤 수집하고 나서야 발견해서 방법이 없었다는...ㅠㅠ)
 
 5. 후처리 안하시면 나중에 글삭제시 사진이 깨집니다.
-pdf후처리 방법도 공개합니다.
+pdf후처리 방법도 공개합니다. https://github.com/wjdgowns77/SDAbackupproject/blob/master/abc.bat
 
 6. 마소 윈도우에서 돌아가는 스크립트 입니다.
 과일 이름으로 된 OS, 리눅스, 맥 이런곳에서 돌아갈거라 생각하지 않습니다.
